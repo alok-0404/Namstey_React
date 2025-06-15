@@ -1,0 +1,1 @@
+npm = it is a configurations of packages

@@ -1,0 +1,11 @@
+{
+  "name": "namasty_react",
+  "version": "1.0.0",
+  "description": "React course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alok",
+  "license": "ISC"
+}
