@@ -2,10 +2,17 @@
   "name": "namasty_react",
   "version": "1.0.0",
   "description": "React course",
-  "main": "App.js",
+  "source": "App.js",
   "scripts": {
     "test": "jest"
   },
   "author": "Alok",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }

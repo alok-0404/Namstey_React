@@ -1,1 +1,20 @@
-npm = it is a configurations of packages
+.>>npm = it is a configurations of packages
+>>bundelers = (veet, parsel) , pack aour app
+two types of dependecies = devdependencies: require for deveelopment
+normal dependencies:  use in production
+>> "parcel": "^2.15.2":   carrot /\(sighn in starting of 2.15.2): so carrot is use to upgrade in minnor version like 2.16.3
+
+>>  ~ : tilta if major version is updated to  2.15.2 is automatically update in 3.15.2 version
+
+>>package-lock.json : it contain each and evry version like exact version and package.json: contain approx version 
+
+>> node modules: contain all of the data regarding our app
+
+>> parcel have as its own dependecies and this dependencies has it own dependencies called transitive dependencies
+
+>> node_modules: it contain all the dependencies regarding our app, but never send in git because it is so heavy , but package and package lock json will go on git , it help to install all dependecies regarding app and recreate node modules.
+
+>>NPM : it just use for install packages 
+>>NPX : to execute aur pacakges
+
+>>parcel : built dev tool, local server, HMR(hot module refreshmnent, use file watching algorithaam)
