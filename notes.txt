@@ -18,3 +18,22 @@ normal dependencies:  use in production
 >>NPX : to execute aur pacakges
 
 >>parcel : built dev tool, local server, HMR(hot module refreshmnent, use file watching algorithaam)
+
+JSX: writing html in javascript ==> NOOOO
+JSX is different and html is different
+
+
+jsx code is transpiled before it reaches the js engines--->understand
+
+babble: it just normal js package, it us transpiling the code(compiler), it take jsx code and compile that engine js understand
+
+REACT COPMPONENT:>> Every thing is in react is componnet
+>> there are twio types of component:
+1> class based compoent: old way, uses js classes
+2> functional comonenet: new way, use js function
+
+
+React functional compnent:  it just a js function, whene create naming in capital letter
+
+JSX : mix of html and javascript, jsx is also prevent mallicious data. if we are fetch some kind of data in {data} 
+

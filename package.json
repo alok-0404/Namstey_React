@@ -4,7 +4,8 @@
   "description": "React course",
   "source": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": ""
   },
   "author": "Alok",
   "license": "ISC",
